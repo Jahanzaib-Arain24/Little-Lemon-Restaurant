@@ -6,11 +6,8 @@
   <p><i>"Traditional Mediterranean Recipes Served with a Modern Twist in the Heart of Chicago"</i></p>
 
   <p align="center">
-    <a href="https://little-lemon-chicago-dining.netlify.app/" target="_blank">
-      <img src="https://img.shields.io/badge/🌐_Live_Demo-Netlify_Production-10b981?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo" />
-    </a>
-    <a href="https://wa.me/447840179553" target="_blank">
-      <img src="https://img.shields.io/badge/💬_WhatsApp-Table_Inquiry-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Direct" />
+    <a href="https://littlelemon-bistro.netlify.app/" target="_blank">
+      <img src="https://img.shields.io/badge/🌐_Live_Demo-littlelemon--bistro.netlify.app-10b981?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo" />
     </a>
   </p>
 </div>
@@ -36,8 +33,7 @@
 
 The application is deployed and available for online table reservations and peer evaluation:
 
-- 🔗 **Production URL**: [https://little-lemon-chicago-dining.netlify.app/](https://little-lemon-chicago-dining.netlify.app/)
-- 💬 **WhatsApp Direct Desk**: [+44 7840 179553](https://wa.me/447840179553)
+- 🔗 **Production URL**: [https://littlelemon-bistro.netlify.app/](https://littlelemon-bistro.netlify.app/)
 - 📧 **Official Contact**: [info@littlelemon.com](mailto:info@littlelemon.com)
 - 📍 **Headquarters**: 123 Lemon Street, Chicago, Illinois, United States
 - 📞 **Phone**: (312) 555-0123
@@ -118,17 +114,11 @@ The application is engineered into **9 modular, reusable React components**:
 
 Our weekly specials represent authentic Mediterranean recipes prepared daily with fresh locally-sourced ingredients:
 
-```
-┌──────────────────────────────────────────────────────────────────────────────────┐
-│                     LITTLE LEMON — WEEKLY SPECIALS CATALOG                       │
-├─────────────────────────┬──────────────────────┬─────────────┬───────────────────┤
-│ Dish Name               │ Price                │ Category    │ Chef's Notes      │
-├─────────────────────────┼──────────────────────┼─────────────┼───────────────────┤
-│ 🥗 Greek Salad          │ $12.99               │ Appetizer   │ Chicago feta, rosemary croutons│
-│ 🥖 Bruschetta           │ $5.99                │ Starter     │ Grilled bread, garlic & olive oil│
-│ 🍋 Lemon Dessert        │ $5.00                │ Dessert     │ Grandma's authentic lemon recipe│
-└─────────────────────────┴──────────────────────┴─────────────┴───────────────────┘
-```
+| Dish Name | Price | Category | Chef's Culinary Notes |
+| :--- | :---: | :---: | :--- |
+| 🥗 **Greek Salad** | `$12.99` | Appetizer | Crisp romaine lettuce, Kalamata olives, peppers, authentic Chicago-style feta, and rosemary croutons |
+| 🥖 **Bruschetta** | `$5.99` | Starter | Grilled artisan bread rubbed with fresh garlic, sea salt, extra virgin olive oil, and balsamic glaze |
+| 🍋 **Lemon Dessert** | `$5.00` | Dessert | Handed down straight from grandma's recipe book with Meyer lemon glaze and garden fresh mint |
 
 ---
 
@@ -372,7 +362,6 @@ This project is open-sourced under the **MIT License** — see the [LICENSE](LIC
 - 🌐 **Portfolio**: [jahanzaib-20.netlify.app](https://jahanzaib-20.netlify.app/)
 - 💼 **LinkedIn**: [@jahanzaib-arain](https://www.linkedin.com/in/jahanzaib-arain/)
 - 📧 **Email**: [arainjhanzaib@gmail.com](mailto:arainjhanzaib@gmail.com)
-- 💬 **WhatsApp**: [+44 7840 179553](https://wa.me/447840179553)
 - 💻 **GitHub**: [@Jahanzaib-Arain24](https://github.com/Jahanzaib-Arain24)
 
 ---
