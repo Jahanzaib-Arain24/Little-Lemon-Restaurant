@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 80">
+  <defs>
+    <style>
+      .logo-title { font-family: 'Georgia', serif; font-size: 32px; font-weight: bold; fill: #495E57; }
+      .logo-subtitle { font-family: 'Georgia', serif; font-size: 14px; fill: #EE9972; letter-spacing: 2px; }
+    </style>
+  </defs>
+  <!-- Lemon Icon -->
+  <ellipse cx="35" cy="40" rx="22" ry="26" fill="#F4CE14" />
+  <ellipse cx="35" cy="40" rx="16" ry="20" fill="none" stroke="#495E57" stroke-width="1.5" opacity="0.3"/>
+  <line x1="35" y1="14" x2="35" y2="22" stroke="#495E57" stroke-width="2" stroke-linecap="round"/>
+  <path d="M 35 14 Q 42 8 48 12" fill="none" stroke="#495E57" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M 35 14 Q 28 8 22 12" fill="none" stroke="#495E57" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- Text -->
+  <text x="70" y="42" class="logo-title">Little Lemon</text>
+  <text x="70" y="62" class="logo-subtitle">MEDITERRANEAN RESTAURANT</text>
+</svg>
